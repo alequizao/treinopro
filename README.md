@@ -74,8 +74,10 @@ que devolve a sessão do personal com um clique. Rotas: `?p=entrar-como&id=` e
 
 ## 👨‍💻 Desenvolvedor
 
-Sistema **desenvolvido sob encomenda** por **Alex Junior (alequizao)** — Analista e
-Desenvolvedor de Sistemas em Maceió, Alagoas, Brasil. Programador na **Publish Digital**.
+Projetado e desenvolvido **100% por Alex Junior (alequizao)** — da ideia ao deploy:
+levantamento, modelagem do banco, backend, interface e publicação em produção.
+Analista e Desenvolvedor de Sistemas em **Maceió, Alagoas**, Brasil. Programador na
+**Publish Digital**.
 
 - **E-mail:** alequizao.dev@gmail.com
 - **WhatsApp:** [(82) 98871-7072](https://wa.me/5582988717072)
