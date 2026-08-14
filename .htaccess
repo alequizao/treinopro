@@ -1,0 +1,22 @@
+# TreinoPro — URLs amigáveis (sem .php) e proteção de pastas internas
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # bloqueia acesso direto às pastas internas
+  RewriteRule ^(inc|sql|modelo)/ - [F,L]
+
+  # arquivos e pastas reais são servidos normalmente (assets, uploads, api.php, sw.js...)
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # /treinos, /aluno, /meu-treino ... -> index.php?p=treinos
+  RewriteRule ^([a-z0-9][a-z0-9\-_]*)/?$ index.php?p=$1 [QSA,L]
+</IfModule>
+
+<FilesMatch "\.(md|sql|log)$">
+  Require all denied
+</FilesMatch>

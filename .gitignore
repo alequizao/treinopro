@@ -1,0 +1,32 @@
+# --- Credenciais ---
+inc/boot.php
+config.php
+.env
+.env.*
+!.env.example
+
+# --- Dados de alunos / uploads ---
+uploads/
+modelo/
+
+# --- Dumps ---
+*.sql
+sql/*.sql
+
+# --- Dependencias ---
+vendor/
+node_modules/
+
+# --- Logs e temporarios ---
+*.log
+logs/
+cache/
+tmp/
+*.bak
+*.bak-*
+*.tar.gz
+*.zip
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
