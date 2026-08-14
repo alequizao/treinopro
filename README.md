@@ -68,7 +68,7 @@ que devolve a sessão do personal com um clique. Rotas: `?p=entrar-como&id=` e
 
 ## 📸 Tela
 
-[![TreinoPro — SaaS whitelabel para personal trainers, com painel do treinador e app do aluno, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://treino.alequizao.com)](https://treino.alequizao.com)
+[![TreinoPro — SaaS whitelabel para personal trainers, com painel do treinador e app do aluno, desenvolvido por Alex Junior (alequizao)](screenshots/tela-principal.png)](https://treino.alequizao.com)
 
 ---
 
