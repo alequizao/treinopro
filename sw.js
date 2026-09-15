@@ -1,3 +1,7 @@
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /* TreinoPro — service worker.
    O nome do cache vem da versão passada no registro (sw.js?v=X.Y.Z):
    versão nova => cache novo => todo mundo recebe a atualização na hora. */

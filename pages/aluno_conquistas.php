@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** App do aluno — conquistas, nível e recordes pessoais */
 exige('aluno');
 $EU = (int) usuario()['id'];

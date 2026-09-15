@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** App do aluno — programa de treino (fases, semanas e dias) */
 exige('aluno');
 $EU = (int) usuario()['id'];

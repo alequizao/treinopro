@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** TreinoPro — endpoints AJAX (todas as ações passam por aqui) */
 require __DIR__ . '/inc/boot.php';
 

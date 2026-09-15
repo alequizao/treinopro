@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** Logs de auditoria (master) */
 exige('master');
 $lista = todos('SELECT l.*, u.nome AS usuario, t.nome AS marca FROM tr_logs l

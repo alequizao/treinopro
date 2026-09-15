@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** TreinoPro — front controller */
 require __DIR__ . '/inc/boot.php';
 require __DIR__ . '/inc/layout.php';

@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** App do aluno — perfil completo (foto, contato, endereço, metas, notificações) */
 exige('aluno');
 $u = um('SELECT * FROM tr_usuarios WHERE id=?', [(int) usuario()['id']]);

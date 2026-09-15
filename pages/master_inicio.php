@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** Home do super admin (dono do SaaS) */
 exige('master');
 $tenants = (int) valor('SELECT COUNT(*) FROM tr_tenants');

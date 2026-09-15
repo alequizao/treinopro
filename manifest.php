@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** Manifest PWA dinâmico — cada personal tem o app com a própria marca */
 require __DIR__ . '/inc/boot.php';
 header('Content-Type: application/manifest+json; charset=utf-8');

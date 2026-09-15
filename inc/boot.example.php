@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * TreinoPro — núcleo do sistema (config, banco, sessão, tenant, helpers)
  * SaaS whitelabel para personal trainers.

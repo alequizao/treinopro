@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Corpo & atividades: mapa muscular SVG, agrupamento de músculos,
  * cálculos de composição corporal e estatísticas de treino.

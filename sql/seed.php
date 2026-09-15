@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Seed do TreinoPro — biblioteca global de exercícios + master + conta DEMO completa.
  * Uso: php sql/seed.php

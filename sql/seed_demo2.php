@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Completa a demonstração: perfis cheios, endereço, conversa do chat,
  * medidas/dobras/composição, fases do treino e vídeos de exercício.

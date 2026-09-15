@@ -1,3 +1,7 @@
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /* TreinoPro — comportamento AJAX padrão (fetch + JSON, sem reload) */
 (function () {
   'use strict';

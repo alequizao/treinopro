@@ -1,4 +1,8 @@
 <?php
+/*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /** Painel do treinador — mensagens com os alunos */
 exige('treinador');
 require_once RAIZ . '/inc/chat.php';

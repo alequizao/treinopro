@@ -1,4 +1,8 @@
-<?php /** JS compartilhado do chat (aluno e treinador) — polling com pausa na aba oculta */ ?>
+<?php /*
+ * TreinoPro · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
+/** JS compartilhado do chat (aluno e treinador) — polling com pausa na aba oculta */ ?>
 <script>
 var ALUNO_ID = <?= json_encode($alunoChat ?? null) ?>;   // null = sou o aluno
 var caixa = document.getElementById('msgs');
